@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\title{RESUME}
+
+\begin{document}
+\maketitle
+
+\section{DETAILS}
+\begin{flushright}
+\includegraphics[]{resu.jpeg}\\
+\end{flushright}
+NAME  :  VELIVALA PRAVEEN\\
+ID NO:   B191557\\
+BRANCH: COMPUTER SCIENCE AND ENGINEERING\\
+COLLEGE: RGUKT BASAR,BASAR
+\section{EDUCATIONAL DETAILS }
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+S.NO&QUALIFICATION&GRADE\\
+\hline
+1&SSC&9.8\\
+\hline
+2&PUC&9.0\\
+\hline
+3&B.TECH&PURSUING\\
+\hline
+\end{tabular}
+\end{center}
+\section{ADDRESS }
+\begin{center}
+H.NO:5-57\\
+KHAMMAM,KHAMMAM\\
+TELANGANA,507302.  
+\end{center}
+\section{HOBBIES}
+\begin{center}
+READING BOOKS\\
+PLAYING GAMES\\
+
+\end{center}
+
+\end{document}
+
